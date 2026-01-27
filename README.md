@@ -73,8 +73,7 @@ Each node represents a **single responsibility**:
 | Python 3.10+         | Core programming language        |
 | LangGraph            | Agent orchestration & state flow |
 | Pydantic             | State validation & modeling      |
-| pyjokes              | Joke data source                 |
-| Streamlit (UI-ready) | Frontend integration capability  |
+| pyjokes              | Joke data source                 |  
 
 ---
 
@@ -118,7 +117,7 @@ pip install langgraph pyjokes pydantic
 ### 3️⃣ Run the Application
 
 ```bash
-python app.py
+python langgraph_joke_bot.py
 ```
 
 ---
@@ -136,7 +135,7 @@ python app.py
 ## 👤 Contact
 
 **Ravikiran**
-📧 *www.ravikirangowd91*
+📧 *www.ravikirangowd91@gmail.com*
 
 ---
 ## 📜 License
