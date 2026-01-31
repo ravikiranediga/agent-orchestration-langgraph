@@ -105,18 +105,21 @@ Each node represents a **single responsibility**:
 
 ```bash
 git clone https://github.com/ravikiranediga/langgraph-joke-bot.git
+
 cd langgraph-joke-bot
 ```
 
 ### 2️⃣ Install Dependencies
 
 ```bash
+
 pip install langgraph pyjokes pydantic 
 ```
 
 ### 3️⃣ Run the Application
 
 ```bash
+
 python langgraph_joke_bot.py
 ```
 
@@ -136,8 +139,3 @@ python langgraph_joke_bot.py
 
 **Ravikiran**
 📧 *www.ravikirangowd91@gmail.com*
-
----
-## 📜 License
-
-This project is licensed under the **MIT License**.
